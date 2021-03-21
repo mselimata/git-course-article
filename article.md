@@ -1,11 +1,11 @@
 # Title
 The most amazing git and github article with the best title ever
 # Author
-Stefano Moia, Basque Center on Cognition, Brain and Language
+Stefano Moia, Basque Center on Cognition, Brain and Language.
 
-Melvin Selim Atay, Middle East Technical University
+Melvin Selim Atay, Middle East Technical University.
 
-John Smith, University of Git
+John Smith, University of Git and Github
 # Introduction
 We found that introducing git is so much fun using the resource provided by SWC (Huang et al., 2016) edited by (Scapes et al., 2017) we curated the most simple, amazing cool git course in the history of git education.
 Version control using git is coolest thing ever!
