@@ -1,0 +1,2 @@
+Huang et al., 2016, Software Carpentry
+Scapes et al,. 2017 Git Course
