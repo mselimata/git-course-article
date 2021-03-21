@@ -1,5 +1,5 @@
 # Title
-The most amazing git article ever
+The most amazing git and github article ever
 # Author
 Stefano Moia, Basque Center on Cognition, Brain and Language
 
