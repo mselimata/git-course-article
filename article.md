@@ -12,5 +12,9 @@ Version control using git is coolest thing ever!
 Motivation is this research is to appreciate git and github.
 # Methodology
 Methods of this article is the literature research and curating the list of best resources.
+# Figures
+This is the most amazing figure of git.
+![git](https://gcapes.github.io/swc-pr-tutorial/fig/push-pull.svg)
+Figure 1. Git figure.
 # Results
 In this research we found that git is amazing, awesome, incredible system for version control of files.
